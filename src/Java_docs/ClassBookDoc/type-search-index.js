@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"OOP","l":"Abstraction"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Java_docs","l":"Book"},{"p":"<Unnamed>","l":"EncapsulationExample"},{"p":"OOP","l":"InheritanceExample"},{"p":"OOP","l":"Polymorphism"}];updateSearchResults();

@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"Java_docs"},{"l":"OOP"}];updateSearchResults();
